@@ -12,8 +12,8 @@ My main goals are developing web application to help and meet the need of my cus
 - 👯 I’m looking to collaborate on news projects
 - 🤔 I’m looking for help with **.NET**, **Java**
 - 💬 Ask me about theses technologies
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Davi%20Holanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-holanda-043b2093/)](https://www.linkedin.com/in/davi-holanda-043b2093/)
-[![Gmail Badge](https://img.shields.io/badge/-daviht7@gmail.com-red?style=flat-square&link=mailto:daviht7@gmail.com)](mailto:nelsonsantosaraujo@hotmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Davi%20Holanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/daviht7/](https://www.linkedin.com/in/daviht7/))](https://www.linkedin.com/in/daviht7/)
+[![Gmail Badge](https://img.shields.io/badge/-daviht7@gmail.com-red?style=flat-square&link=mailto:daviht7@gmail.com)](mailto:daviht7@hotmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
