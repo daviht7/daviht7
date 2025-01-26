@@ -7,7 +7,7 @@ In my opinion, the best project ever to develop is always the next one, I love c
 
 My main goals are developing web application to help and meet the need of my customers and teach/transmist my knowledge.
 
-- 🔭 I’m currently working on **Cast Group**
+- 🔭 I’m currently working on **Nava**
 - 🌱 I’m currently learning more **Next.Js**
 - 👯 I’m looking to collaborate on news projects
 - 🤔 I’m looking for help with **.NET**, **Java**
